@@ -1,5 +1,5 @@
 ### About me
-Hi! I am Miruna and I am a LIDo PhD student in Interdesciplinary Biosciences at University College London. I am currently in my first year when I am required to complete two rotations, which means I get to explore and combine really cool areas of science. For example I spent the last few months using Molecular Dynamics simulations and Machine Learning to find antimicrobial peptides. Now you can find me modelling the brain using fNIRs(functional near infra-red spectroscopy) and bNIRs(broadband near-infrared spectroscopy).
+Hi! I am Miruna and I am a LIDo PhD student in Interdesciplinary Biosciences at King's College London and UCL and I am working on using Molecular Dynamics simulations and Machine Learning to find antimicrobial peptides. 
 
 ### Science, tech & stuff
 I am a biochemist turned bioinformatician turned data engineer turned ... mmm ... techientist ... scientechist ?
@@ -11,7 +11,7 @@ Here's some stuff I have experience working on/with:
     * metagenomic analysis (see my BSc thesis work [https://github.com/miruuna/Metagenomics])
     * antibodies repertoires (see my MSc thesis work [https://github.com/miruuna/comparison-of-epitopes-and-paratopes])
     * Molecular Dynamics simulation and analysis of bacterial membranes (see the work for my 1st rotation of my PhD [https://github.com/miruuna/MD_scripts_membrane_lipids])
-    * fNIRs, bNIRs and mathematical modelling of the brain
+    * fNIRs, bNIRs and mathematical modelling of the brain (see https://github.com/miruuna/Brain-Haemodynamics-Metabolism/blob/main/sensitivity_analysis.py )
  2. __Dev__
     * Python - proficient
     * Java - beginner (see the FairGrade Calculator I coded for a JAVA programming module I took during my undergrad [https://github.com/miruuna/ProjectJava])
@@ -26,4 +26,4 @@ Here's some stuff I have experience working on/with:
       * ETL processes
       * Continuous integration and deployment using Bamboo and Travis
       * Version control using git
-      * Azure
+      * Azure Cloud 
