@@ -2,7 +2,6 @@
 Hi! I am Miruna and I am a LIDo PhD student in Interdesciplinary Biosciences at King's College London and UCL and I am working on using Molecular Dynamics simulations and Machine Learning to find antimicrobial peptides. 
 
 ### Science, tech & stuff
-I am a biochemist turned bioinformatician turned data engineer turned ... mmm ... techientist ... scientechist ?
 Even though I've always been drawn to science, programming and tech has rapidly gained a huge part of my heart. And because I don't want to give up any of them, here I am, trying to understand science one line of code at a time.
 
 Here's some stuff I have experience working on/with:
